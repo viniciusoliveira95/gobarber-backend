@@ -1,5 +1,6 @@
 # Gobarber-backend
-Aplicação feita para estudos
+Aplicação feita para estudos  
+
 Aplicação utiliza: `Node.js`, `Express.js`, `TypeScript` e `TypeORM`
 
 * [Ambiente](#development-environment)
@@ -25,7 +26,6 @@ yarn global add typescript
 
 Instalando as dependências do projeto
 
-
 ```
 yarn install
 ```
@@ -33,7 +33,6 @@ yarn install
 Após executar a instalação das dependências do projeto, será necessário instalar, manualmente, a lib do postgres
 
 ```
-
 yarn global add pg
 ```
 
