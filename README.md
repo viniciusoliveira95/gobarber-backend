@@ -1,4 +1,6 @@
-# fitdance-api-materials
+# Gobarber-backend
+Aplicação feita para estudos
+Aplicação utiliza: `Node.js`, `Express.js`, `TypeScript` e `TypeORM`
 
 * [Ambiente](#development-environment)
 
@@ -10,7 +12,7 @@
 
 ** É necessário o `node` na versão `12` (recomendo instalar utilizando o `NVM`)
 
-** É necessário banco postgres (recomendo utilizar `docker`)
+** É necessário banco postgres (recomendo utilizar `docker`)  
    OBS: modifique o arquivo `ormconfig.json` de acordo com o banco de dados criado
 
 Para iniciar o ambiente de desenvolvimento, começaremos pelas instalação das dependências do projeto.
