@@ -8,10 +8,10 @@
 
 #### Desenvolvimento
 
-** É necessário o node na versão 12 (recomendo instalar utilizando o NVM)
+** É necessário o `node` na versão `12` (recomendo instalar utilizando o `NVM`)
 
-** É necessário banco postgres (recomendo utilizar docker)
-   OBS: modifique o arquivo ormconfig.json de acordo com o banco de dados criado
+** É necessário banco postgres (recomendo utilizar `docker`)
+   OBS: modifique o arquivo `ormconfig.json` de acordo com o banco de dados criado
 
 Para iniciar o ambiente de desenvolvimento, começaremos pelas instalação das dependências do projeto.
 Utilizaremos o `yarn` como gerenciador de dependências, porém, o `npm` também poderá ser utilizado.
